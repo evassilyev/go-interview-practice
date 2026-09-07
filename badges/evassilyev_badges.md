@@ -14,9 +14,9 @@
 [![Go Interview Practice](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/evassilyev.json&style=for-the-badge&logo=go&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
 
 ### 📊 Static Badges Collection
-[![Challenges Solved](https://img.shields.io/badge/Go_Challenges-18%2F30-brightgreen?style=for-the-badge&logo=go&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
+[![Challenges Solved](https://img.shields.io/badge/Go_Challenges-19%2F30-brightgreen?style=for-the-badge&logo=go&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
 [![Achievement Level](https://img.shields.io/badge/Level-🎯_Expert-blue?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
-[![Completion Rate](https://img.shields.io/badge/Completion-60.0%25-blue?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
+[![Completion Rate](https://img.shields.io/badge/Completion-63.3%25-blue?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
 
 
 ### 🔗 Repository Link Badge
@@ -28,5 +28,5 @@
 
 **👤 Username:** @evassilyev  
 **🏅 Achievement Level:** 🎯 **Expert Developer**  
-**📊 Classic Challenges:** 18/30 (60.0% complete)  
+**📊 Classic Challenges:** 19/30 (63.3% complete)  
 **🔗 Repository:** [Go Interview Practice](https://github.com/RezaSi/go-interview-practice)  
